@@ -1,2 +1,2 @@
-# SlashCod
+# SlashCode
 Только для андроид!
